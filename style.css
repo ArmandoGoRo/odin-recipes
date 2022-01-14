@@ -1,0 +1,16 @@
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    color: gold;
+    background-color: navy;
+    text-align: center;
+}
+
+.recipe-list {
+    color: navy;
+}
+
+.list-item {
+    font-family: cursive, serif;
+    color: red;
+    font-size: 20px;
+}
