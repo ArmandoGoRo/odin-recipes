@@ -1,0 +1,19 @@
+h1 {
+    color: gold;
+    background-color: white;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
+
+.image-description {
+    font-family: sans-serif;
+    font-style: oblique;
+    font-size: 14px;
+}
+
+.description {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

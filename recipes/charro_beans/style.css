@@ -1,0 +1,19 @@
+h1 {
+    color: brown;
+    background-color: rgb(101, 218, 101);
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
+
+.image-description {
+    font-family: sans-serif;
+    font-style: oblique;
+    font-size: 14px;
+}
+
+.description {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
